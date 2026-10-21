@@ -1,2 +1,2 @@
-# kelmi-atelier
-KÉLMI Atelier Website
+# kelmor-atelier
+KÉLMOR Atelier Website
